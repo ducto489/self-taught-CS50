@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdio.h": "c"
+    },
+    "gitdoc.enabled": true,
+    "cSpell.ignoreWords": [
+        "incorrects"
+    ]
+}

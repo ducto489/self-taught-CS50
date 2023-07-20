@@ -1,0 +1,15 @@
+a
+{
+    color: #FF0000;
+    text-decoration: none;
+}
+
+a: hover
+{
+    text-decoration: underline;
+}
+
+a[href*="harvard.edu"]
+{
+    color: red;
+}
