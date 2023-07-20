@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: When I use sort 1 and 3 to sort the sorted50000.txt file, sort1 is faster then sort2. Based on big omega notation of two sort(Bubble sort in best case is n), I knew sort1 is bubble sort
+
+sort2 uses: Merge sort
+
+How do you know?: I used sor1, sort2 and sort3 to sort the ramdomversed.txt file. I founded out sort2 is the fastest with 5 second of real time.
+
+sort3 uses: Selection sort
+
+How do you know?: Exclusion method.
